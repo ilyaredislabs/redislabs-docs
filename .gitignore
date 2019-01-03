@@ -21,4 +21,4 @@ Thumbs.db
 .DS_Store
 
 # Generated resource files, eg. generated CSS files with
-/resources/_gen/*
+# /resources/_gen/*
