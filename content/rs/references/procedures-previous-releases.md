@@ -40,7 +40,7 @@ rename them to the same exact names as the original files:
     **Note**: A certificate for the databases' endpoint should be
     assigned for the same domain as the cluster name. For example,
     for a cluster with the name "redislabs.com" the certificate
-    should be for "redis-\*.redislabs.com"
+    should be for "*.redislabs.com"
 
 1. If you are using a certificate issued by an intermediate
 certificate authority (CA), you should also add the chain file
