@@ -19,3 +19,6 @@ Thumbs.db
 
 # MacOS files
 .DS_Store
+
+# Generated resource files, eg. generated CSS files with
+/resources/_gen/*
