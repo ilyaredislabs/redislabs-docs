@@ -1882,7 +1882,7 @@ article > aside .menu .menu__version-selector.--open .menu__version-selector__li
 }
 
 article > aside .menu > li .menu-divider {
-  border-top: 1px solid #5d6876;
+  border-top: 1px solid red;
   height: 1px;
   left: 20px;  
   margin-left: 0 !important;
