@@ -60,7 +60,7 @@ throughput and latency.
     Note: A certificate for the databases' endpoint should be assigned
     for the same domain as the cluster name. For example, for a cluster
     with the name "redislabs.com" the certificate should be for
-    "redis-\*.redislabs.com".
+    "*.redislabs.com".
 
 1. Add the SSL/TLS client certificates in the UI including CA
     certificates and any intermediate certificates by chaining the
